@@ -147,7 +147,7 @@ if (isset($_SESSION['user'])) {
 
         <div id="copyright">
             <div class="wrapper">
-                &copy; 2021 <b>RahajasaFinishing.</b> All Rights Reserved.
+                &copy; 2021 <b>RajasaFinishing.</b> All Rights Reserved.
             </div>
         </div>
     </div>
